@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hopefulTex
 - 👀 I’m interested in UI design and lower level coding, not so much the stuff in-between though.
-- 🌱 I’m currently learning Dart lang, initially to learn Flutter but I have resigned myself to not touching that with a 10ft stick.
-- 💞️ I’m looking to collaborate on love :)
+- 🌱 I’m currently learning Golang, because the magicians over at https://charm.sh have quelled my self-destructive desire to ~~learn~~ use CSS.
+- 💞️ I’m looking to collaborate on something that interests me :)
 - 📫 Hit me up at rose103@txstate.edu
 
 <!---
